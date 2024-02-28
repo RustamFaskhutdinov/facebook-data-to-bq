@@ -1,0 +1,10 @@
+# Function dependencies, for example:
+# package>=version
+pandas
+facebook_business>=16.0.0
+pandas_gbq>=0.19.1
+pytz
+functions-framework==3.*
+google-cloud-logging
+google-cloud-bigquery
+
